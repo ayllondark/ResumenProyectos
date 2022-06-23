@@ -61,3 +61,25 @@ Tailwind, Google Authentication, Sanity, react-icons
 Next, Sanity, Stripe
 
 ---
+
+## Portafolio Basic
+![](https://github.com/ayllondark/ResumenProyectos/blob/main/img/PortafolioBasic.png)
+
+[![Repo](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/ayllondark/portfolio-basic)
+[![Vista previa](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://portafolio-basic.vercel.app)
+
+
+## 🛠 Skills
+React, Css
+
+---
+
+## Web GPT3
+![](https://github.com/ayllondark/ResumenProyectos/blob/main/img/Gpt3.png)
+
+[![Repo](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/ayllondark/gpt3)
+[![Vista previa](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://gpt3design.vercel.app)
+
+
+## 🛠 Skills
+React, Css BEM, flex & grid, Animation
