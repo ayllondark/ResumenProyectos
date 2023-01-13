@@ -2,6 +2,19 @@
 📄<br>Proyectos
 </h1>
 
+## Dashboard Plantas
+![](https://github.com/ayllondark/dashboard-plantas/blob/master/src/assets/thumbnail.png)
+
+[![Repo](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/ayllondark/dashboard-plantas)
+[![Vista previa](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://dashboard-plantas.vercel.app)
+
+
+## 🛠 Skills
+Vite, React hooks, modern CSS
+
+---
+
+
 ## Fitness Club
 ![](https://github.com/ayllondark/fitness-club/blob/master/src/assets/thumbnail.png)
 
