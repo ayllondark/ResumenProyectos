@@ -2,6 +2,18 @@
 📄<br>Proyectos
 </h1>
 
+## Nike Store
+![](https://vercel.com/7f1cc6f5-7828-4db4-aaa9-ffb5439afe33)
+
+[![Repo](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/ayllondark/dashboard-plantas)
+[![Vista previa](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://dashboard-plantas.vercel.app)
+
+
+## 🛠 Skills
+Vite, React hooks, modern CSS
+
+---
+
 ## Dashboard Plantas
 ![](https://github.com/ayllondark/dashboard-plantas/blob/master/src/assets/thumbnail.png)
 
