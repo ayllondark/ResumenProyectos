@@ -5,8 +5,8 @@
 ## Nike Store
 ![](https://github.com/ayllondark/nike-store/blob/master/src/assets/nikestore.png)
 
-[![Repo](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/ayllondark/dashboard-plantas)
-[![Vista previa](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://dashboard-plantas.vercel.app)
+[![Repo](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/ayllondark/nike-store)
+[![Vista previa](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://nike-store-jet.vercel.app)
 
 
 ## 🛠 Skills
