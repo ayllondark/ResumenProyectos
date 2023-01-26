@@ -10,7 +10,7 @@
 
 
 ## 🛠 Skills
-Vite, React hooks, modern CSS
+Vite, Redux Toolkit, Notificaciones, Tailwindcss, slider
 
 ---
 
