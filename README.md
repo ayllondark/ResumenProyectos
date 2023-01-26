@@ -3,7 +3,7 @@
 </h1>
 
 ## Nike Store
-![](https://vercel.com/7f1cc6f5-7828-4db4-aaa9-ffb5439afe33)
+![](https://github.com/ayllondark/nike-store/blob/master/src/assets/nikestore.png)
 
 [![Repo](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/ayllondark/dashboard-plantas)
 [![Vista previa](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://dashboard-plantas.vercel.app)
