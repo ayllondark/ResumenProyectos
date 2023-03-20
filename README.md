@@ -88,6 +88,18 @@ Tailwind, Google Authentication, Sanity, react-icons
 
 ---
 
+## Peliculas con AWS Amplify
+![](https://raw.githubusercontent.com/ayllondark/pelis-aws-amplify-demo/master/src/imagen_2023-03-20_093639844.png)
+
+[![Repo](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/ayllondark/pelis-aws-amplify-demo)
+[![Vista previa](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://master.d38297kfzv4u2g.amplifyapp.com/)
+
+
+## 🛠 Skills
+Tailwind, Google Authentication, Sanity, react-icons
+
+---
+
 ## Ecommerce Sanity and Stripe
 ![](https://github.com/ayllondark/ResumenProyectos/blob/main/img/ecommerce-sanity-stripe.png)
 
