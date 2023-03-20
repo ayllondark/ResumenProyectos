@@ -96,7 +96,7 @@ Tailwind, Google Authentication, Sanity, react-icons
 
 
 ## 🛠 Skills
-Tailwind, Google Authentication, Sanity, react-icons
+Tailwind, AWS Amplify, React
 
 ---
 
